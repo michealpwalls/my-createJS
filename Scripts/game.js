@@ -2,4 +2,4 @@
 
   console.log("Game running");
 
-});
+}());
